@@ -1,0 +1,30 @@
+### https://raw.github.com/github/gitignore/1d774cdf83cd25f03ce79583efbd4b584904237b/haskell.gitignore
+
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+*.dyn_o
+*.dyn_hi
+.hpc
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+*.prof
+*.aux
+*.hp
+.stack-work/
+
+
+### https://raw.github.com/github/gitignore/1d774cdf83cd25f03ce79583efbd4b584904237b/Global/vim.gitignore
+
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+
